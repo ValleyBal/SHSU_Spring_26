@@ -1,5 +1,5 @@
 # SHSU_SPRING_26
-Assignments and projects done for courses at SHSU.
+Assignments and projects done for courses at SHSU.\
 Course Contents:
   - BANA 4365: Introduction to Business & Economic Forecasting\
     Contains project essays from analysis and forecasting for All-Transactions House Price Index in California.
